@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7BA57793-CA35-4D52-B6B1-0E6BE9C1778C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SyncDataService/Grpc/PlatformDataClient.cs">
+    <Files>
+      <File FileName="SyncDataService/Grpc/PlatformDataClient.cs" Line="29" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CommandService" expanded="True">
+            <Node name="CommandService" expanded="True">
+              <Node name="SyncDataService" expanded="True">
+                <Node name="Grpc" expanded="True">
+                  <Node name="PlatformDataClient.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CommandService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
