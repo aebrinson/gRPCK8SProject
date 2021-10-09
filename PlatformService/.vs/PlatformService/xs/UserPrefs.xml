@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{ADED61E4-A23D-485D-8E33-656A7A1A85DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SyncDataServices/gRPC/GrpcPlatformService.cs">
+    <Files>
+      <File FileName="appsettings.Development.json" Line="20" Column="9" />
+      <File FileName="appsettings.Production.json" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="74" Column="15" />
+      <File FileName="SyncDataServices/gRPC/GrpcPlatformService.cs" Line="19" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlatformService" expanded="True">
+            <Node name="PlatformService" expanded="True">
+              <Node name="AsyncDataServices" expanded="True" />
+              <Node name="SyncDataServices" expanded="True">
+                <Node name="gRPC" expanded="True">
+                  <Node name="GrpcPlatformService.cs" selected="True" />
+                </Node>
+                <Node name="Http" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PlatformService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
